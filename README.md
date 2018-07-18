@@ -1,3 +1,3 @@
 # simpleRedux
 
-Here is a vanillaJS implementation of a Redux simplified version
+Here is some simple implementation of a Redux.
